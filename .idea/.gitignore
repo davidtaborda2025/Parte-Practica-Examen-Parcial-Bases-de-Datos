@@ -18,4 +18,4 @@ target/
 #Ignorar todos los demás
 *
 !/Parte Practica/**
-
+!/.gitignore
